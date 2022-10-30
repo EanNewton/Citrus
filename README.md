@@ -12,15 +12,6 @@ Shared under the [United States Copyright Office Compendium chapter 313.4(F)](ht
 # Table of Contents
 
 - [BUY ME A COFFEE](#buy-me-a-coffee)
-- [Breakfast & Brunch](#breakfast--brunch)
-- [Little Meals](#little-meals)
-- [Salads & Sides](#salads--sides)
-- [Sandwiches & Tortillas](#sandwiches--tortillas)
-- [Meals In A Bowl](#meals-in-a-bowl)
-- [Platefuls](#platefuls)
-- [Meals To Share](#meals-to-share)
-- [Sweets](#sweets)
-- [Pickles, Sauces, & Such](#pickles-sauces--such)
 
 ---
 
@@ -37,18 +28,18 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ----
 
 # Preserves
-* Cheat's Preserved Citrus
-* Lemon-Mandarin Kosho
-* Lime-Pickled Red Onions
-* Lime-Scotch Bonnet Kosho
-* Sweet Lime Pickle
+* [Cheat's Preserved Citrus](https://github.com/EanNewton/Citrus/blob/master/Preserves/Cheats%20Preserved%20Citrus.md)
+* [Lemon-Mandarin Kosho](https://github.com/EanNewton/Citrus/blob/master/Preserves/Lemon-Mandarin%20Kosho.md)
+* [Lime-Pickled Red Onions](https://github.com/EanNewton/Citrus/blob/master/Preserves/Lime-Pickled%20Red%20Onions.md)
+* [Lime-Scotch Bonnet Kosho](https://github.com/EanNewton/Citrus/blob/master/Preserves/Lime-Scotch%20Bonnet%20Kosho.md)
+* [Sweet Lime Pickle](https://github.com/EanNewton/Citrus/blob/master/Preserves/Sweet%20Lime%20Pickle.md)
 
 # Soups
-* Chicken Chard and Giant Couscous Soup
-* Fish Broth with Lime Leaves Lemongrass and Coconut
-* Lamb with Dried Lime Soup
-* Lime and Chicken Tortilla Soup
-* Orange Melon and Ginger Gazpacho
+* [Chicken Chard and Giant Couscous Soup](https://github.com/EanNewton/Citrus/blob/master/Soups/Chicken%20Chard%20and%20Giant%20Couscous%20Soup.md)
+* [Fish Broth with Lime Leaves Lemongrass and Coconut](https://github.com/EanNewton/Citrus/blob/master/Soups/Fish%20Broth%20with%20Lime%20Leaves%20Lemongrass%20and%20Coconut.md)
+* [Lamb with Dried Lime Soup](https://github.com/EanNewton/Citrus/blob/master/Soups/Lamb%20and%20Dried%20Lime%20Soup.md)
+* [Lime and Chicken Tortilla Soup](https://github.com/EanNewton/Citrus/blob/master/Soups/Lime%20and%20Chicken%20Tortilla%20Soup.md)
+* [Orange Melon and Ginger Gazpacho](https://github.com/EanNewton/Citrus/blob/master/Soups/Orange%20Melon%20and%20Ginger%20Gazpacho.md)
 
 # Mediterranean-Inspired Mezze
 * 
