@@ -67,7 +67,23 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Yuzu Prawn Cocktail](https://github.com/EanNewton/Citrus/blob/master/Small%20Plates/Yuzu%20Prawn%20Cocktail.md)
 
 # Salads
-*
+* Avocado Vinaigrette
+* Beef Carpaccio Salad with Lemon-Mandarin-kosho Dressing
+* Blood Orange, Burrata, and Freekeh Salad
+* Carrot, Orange and Orange Blossom Salad
+* Coconut, Lime, and Lemongrass Chicken Salad
+* Courgette, Parmesan, and Lemon Salad
+* Feta, Cantaloupe, and Lime Salad
+* Grapefruit Tomato, and Mint Salad with a Pomegranate Molasses Dressing
+* Jerusalem Artichoke and Preserved Orange
+* Lamb Salad with Artichokes, Preserved Lemons, Dates, and Saffron
+* Lobster Salad with Quinoa, Avocado, Mango and Citrus Dressing
+* Marinated Lemon Salad
+* Marinated Squid, Smoked Chilli, Fennel and Lemon Salad
+* Orange and Beetroot Salad with a Ginger Dressing
+* Pomelo and Crab Salad with Candied Cashew Nuts
+* Puntarelle and Orange Salad
+* Tomato, Lemon, and Caper Salad
 
 # Main Courses
 *
