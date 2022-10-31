@@ -1,6 +1,6 @@
-# Fish Broth with Lime Leaves, L
+# Sweet Lime Pickle
 
-Serves 4
+Makes about 1 x 500 ml / 2 cup jar
 
 ---
 

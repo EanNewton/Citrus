@@ -1,24 +1,23 @@
-# Sweet Lime Pickle
-
-Makes about 1 x 500 ml / 2 cup jar
+# Lime-Pickled Red Onions
 
 ---
 
 ## Ingredients
 
-* 5 limes, plus 150 ml / 10 tbsp lime juice
-* 75 g fine sea salt
-* 200 g granulated sugar
-* 1 tsp allspice berries
-* 1 tsp black peppercorns
-* 2 cloves
+* 1 large red onion, thinly sliced
+* 100 ml / 7 tbsp lime juice
+* 1 tsp salt
+* A few cracked peppercorns
 
+## To serve
+
+* Freshly chopped herbs, such as coriander (cilantro) or parsley
+* 1 tsp sumac
 
 ---
 
 ## Steps
 
-1.  Give the limes a good wash under hot water. Dry off, then top and tail quite generously. Slice the limes thinly, then arrange in a single layer over kitchen paper. Spinkle over half the salt, then cover with more kitchen paper and leave to stand for 5 hours.
-2.  Turn over the lime slices (you should see that the salt has dissolved) and cover with the remaining salt, and a layer of kitchen paper. Leave for another few hours or, even better, overnight.
-3.  Rinse the lime slices thoroughly to get rid of any excess salt, then put in a saucepan and cover with water. Bring to the boil, turn down and simmer very gently for around 30 minutes until the lime slices are tender but still intact. Drain carefully into a warmed sterilized jar.
-4.  While you are simmering the lime slices, make the spiced syrup. Put the sugar, lime juice, and spices in a saucepan with 75ml / 5 tbsp water. Heat slowly until the sugar has
+1.  Put the onions in a bowl and pour over freshly boiled water to cover. Leave to stand for 20 seconds then drain.
+2.  In a small bowl, mix the lime juice with the salt. Pour over the onions, add the peppercorns and stir to combine. If serving straight away, leave to stand for at least 30 minutes. Otherwise, transfer to a sterilized jar and store in the refrigerator until needed.
+3.  To serve, add the fresh herbs (choose whichever matches the dish you are serving it with) and a sprinkling of sumac.

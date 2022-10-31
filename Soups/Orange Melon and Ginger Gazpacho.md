@@ -1,4 +1,4 @@
-# Lamb and Dried Lime Soup
+# Orange, Melon, and Ginger Gazpacho
 
 Serves 4
 
@@ -6,32 +6,20 @@ Serves 4
 
 ## Ingredients
 
-* 1 tbsp olive oil
-* 2 red onions, fiarly finely chopped
-* 500 g / 1 lb 2 oz lamb, trimmed of fat, and cut into cubes
-* 1 tsp ground turmeric
-* 1 tsp ground coriander
-* 1 tsp ground cumin
-* 1 tsp ground ginger
-* 1/2 tsp ground cinnamon
-* 1/4 tsp ground cardamom
-* A pinch of ground cloves
-* 50 g bunch of coriander (cilantro), stems and leaves separated, finely chopped
-* 50 g bunch of parsley, stems and leaves separated, finely chopped
-* 1 tbsp tomato paste
-* 1 liter / 4 cups chicken, lamb, or vegetable stock
-* 50 g red lentils, well rinsed
-* 6 dried limes
-* 2 roasted red bell peppers, cut into strips
-* 250 g cooked chickpeas (garbanzo beans)
-* A squeeze of lemon juice
-* Sea salt and ground black pepper
+* 1/2 large orange-fleshed melon, peeled and deseeded (prepared weight around 500 g)
+* 1 large cucumber, peeled, halved lengthwise and deseeded
+* A small knob of fresh root ginger, peeled
+* 1/4 red bell pepper, roughly chopped
+* 2 spring onions (scallions), whites only, roughly chopped
+* Finely grated zest and juice of 1 lime
+* Juice of 1 orange or 2 
 
 
 ---
 
 ## Steps
 
-1.  Heat the oil in a large flameproof casserole or saucepan. Add the onions and cook on a gentle heat until well softened and lightly goldened. Turn up the heat and add the lamb. Sear quickly on all sides, then add all the spices, the garlic, coriander stems, and parsley stems and the tomato paste. Stir until you have a rich brown gravy (the lamb will give out some liquid), then season with salt and pepper, pour in the stock and sprinkle in the red lentils.
-2.  Pierce the dried limes several times with a fork, then add these to the pan, pushing them under until they sink. Bring to a boil, reduce to simmer, cover and cook for around 30 minutes.
-3.  Squash the limes against the side of the pan with the back of spoon
+1.  Heat the olive oil and butter in a large saucepan or flameproof casserole. When the butter has melted, add the leeks with a splash of water and season with salt and pepper. Cover and cook very gently for 10 minutes, checking every so often until tender and buttery. Add the garlic and cook for a further couple of minutes, trying not to stir too much.
+2.  Add the zest, chard leaves and beans, then poour over the stock. Bring to the boil then reduce the heat and simmer for a few minutes until the beans are tender, then add the couscous and chicken. Continue to simmer just to warm through.
+3.  While the soup is simmering, make the harissa dressing. Simply put everything in a food processor and blitz until you have a fresh-looking green paste -- you may have to thin with a little water if you are finding it recalcitrant. Taste for seasoning and add salt if necessary.
+4.  Serve the soup with spoonfuls of the dressing stirred in at the last minute, with a few shavings of Parmesan, if you like.

@@ -61,8 +61,9 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Parsley and Orange Tabbouleh](https://github.com/EanNewton/Citrus/blob/master/Small%20Plates/Parsley%20and%20Orange%20Tabbouleh.md)
 * [Preserved Lemon Hummus](https://github.com/EanNewton/Citrus/blob/master/Small%20Plates/Preserved%20Lemon%20Hummus.md)
 * [Salmon Tiradito with Yuzu](https://github.com/EanNewton/Citrus/blob/master/Small%20Plates/Salmon%20Tiradito%20with%20Yuzu.md)
-* [Sea Bass Ceviceh](https://github.com/EanNewton/Citrus/blob/master/Small%20Plates/Sea%20Bass%20Ceviche.md)
+* [Sea Bass Ceviche](https://github.com/EanNewton/Citrus/blob/master/Small%20Plates/Sea%20Bass%20Ceviche.md)
 * [Sprouting Broccoli with Blood Orange Hollandaise](https://github.com/EanNewton/Citrus/blob/master/Small%20Plates/Sprouting%20Broccoli%20with%20Blood%20Orange%20Hollandaise.md)
 * [Tuna, Orange and Beetroot Poke](https://github.com/EanNewton/Citrus/blob/master/Small%20Plates/Tuna%2C%20Orange%20and%20Beetroot%20Poke.md)
 * [Yuzu Prawn Cocktail](https://github.com/EanNewton/Citrus/blob/master/Small%20Plates/Yuzu%20Prawn%20Cocktail.md)
 
+# Salads

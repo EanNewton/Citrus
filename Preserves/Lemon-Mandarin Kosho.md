@@ -1,13 +1,13 @@
-# Lime-Scotch Bonnet Kosho
+# Lemon-Mandarin Kosho
 
 
 ---
 
 ## Ingredients
 
-* 20 g finely grated lime zest
-* 5 g Scotch bonnet chilli, deseeded and finely chopped
-* 35 g mild-medium-hot red or green chillies, deseeded and finely chopped
+* 15 g finely grated lemon zest
+* 5 g finely grated mandarin zest
+* 40 g medium-hot red chillies, deseeded and finely chopped
 * 6 g salt
 
 ---
