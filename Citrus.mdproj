@@ -3,5 +3,18 @@
   "ActiveSidebarIndex": 0,
   "PreviewWebRootPath": "C:\\Users\\eanne\\Desktop\\Citrus",
   "Configuration": null,
-  "OpenDocuments": []
+  "OpenDocuments": [
+    {
+      "Filename": "C:\\Users\\eanne\\Desktop\\Citrus\\base_template.md",
+      "IsActive": true,
+      "LastEditorLineNumber": 0,
+      "LastImageFolder": null
+    },
+    {
+      "Filename": "C:\\Users\\eanne\\Desktop\\Citrus\\Main Dishes\\Lamb or Goat with Sour Orange, Chilli and Coriander.md",
+      "IsActive": false,
+      "LastEditorLineNumber": 25,
+      "LastImageFolder": null
+    }
+  ]
 }
