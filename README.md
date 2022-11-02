@@ -86,7 +86,43 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Tomato, Lemon, and Caper Salad](https://github.com/EanNewton/Citrus/blob/master/Salads/Tomato%2C%20Lemon%2C%20and%20Caper%20Salad.md)
 
 # Main Courses
-*
+* Beef Casserole with Orange and Juniper
+* Beef Short Ribs with Lemongrass and Lime
+* Bergamot and Lemon Roast Chicken
+* Black-Eyed Peas with Lime and Chipotle
+* Braised New Potatoes and Porcini Mushrooms with Lemon and Rosemary
+* Citrus Risotto
+* Classic Duck à l'Orange
+* Dal with Lemon or Lime Curry
+* Duck Soup with Noodles
+* Early Summer Vegetables with Lime and Tarragon
+* Fish Tacos
+* Greek-Style Lamb Chops with Feta and Celeriac Mash
+* Grilled Aubergines with Mozzarella and Yuzukosho
+* Harissa Mackerel with Orange-Scented Couscous
+* Lamb Meatballs with Broad Beans, Chard, and Preserved Lemons
+* Lamb or Goat with Sour Orange, Chilli and Coriander
+* Lemon or Lime Curry
+* Lime-Marinated Fish with a Lime Garlic and Basil Sauce
+* Linguine with Lemon and Asparagus
+* Mandarin Chicken with Giant Couscous and Charred Broccoli
+* Marinated Chicken with Charred Limes, Saffron Butter and Soft Flatbreads
+* Mojo Chicken
+* Orange-Roasted Root Vegetables with Herb and Lemon Pesto
+* Poached Chicken with Lemon and Sorrel Sauce
+* Pork and Grapefruit or Pomelo Stir Fry
+* Roast Vegetables with Feta and Orange
+* Salmon Fillets with Mandarin and Ginger
+* Sauteed Chicken Livers with Marsala and Orange
+* Sauteed Chicken Thighs with Lemon, Mustard and Basil
+* Seville Orange Spiced Duck
+* Soft Flatbreads
+* Spiced Sea Bass with Citrus Butter Sauce
+* Sweetcorn Fritters
+* Szechuan Peppercorn and Orange Beef
+* Tonkatsu with Yuzu Coleslaw and Ponzu
+* Totally Tropical Ham with Glazed Grapefruit and Pineapple, and Sweetcorn Fritters
+* Whole Baked Fish with Lemon and Ouzo
 
 # Sides
 *
