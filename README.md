@@ -125,7 +125,22 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Whole Baked Fish with Lemon and Ouzo](https://github.com/EanNewton/Citrus/blob/master/Main%20Dishes/Whole%20Baked%20Fish%20with%20Lemon%20and%20Ouzo.md)
 
 # Sides
-*
+* Baked Sweet Potatoes with Yuzu Butter
+* Bitter Orange Rice
+* Broad beans with Lemon and Dill
+* Brussels Sprouts with Lime, Chilli and Nigella Seeds
+* Buttered Courgettes with Lemon and Nutmeg
+* Caramelized Potatoes with Orange
+* Chicory Braised with Grapefruit, Mandarin and Soy
+* Fennel and Lemon Dauphinoise
+* Gently Scented Rice
+* Lemon, Mustard and Rosemary Potatoes
+* Lime and Coconut Rice
+* Roast Tomatoes with Lemon and Lemon Thyme
+* Roasted Cauliflower with Lemon, Nigella Seeds and Gremolata
+* Stir-fried Cucumbers with Orange and Szechuan Peppercorns
+* Sweet Potato Mash with Lemon and Coriander
+* Sweet Potatoes Glazed with Clementines or Mandarins
 
 # Desserts
 *
