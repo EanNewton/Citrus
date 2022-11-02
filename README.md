@@ -125,22 +125,22 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Whole Baked Fish with Lemon and Ouzo](https://github.com/EanNewton/Citrus/blob/master/Main%20Dishes/Whole%20Baked%20Fish%20with%20Lemon%20and%20Ouzo.md)
 
 # Sides
-* Baked Sweet Potatoes with Yuzu Butter
-* Bitter Orange Rice
-* Broad beans with Lemon and Dill
-* Brussels Sprouts with Lime, Chilli and Nigella Seeds
-* Buttered Courgettes with Lemon and Nutmeg
-* Caramelized Potatoes with Orange
-* Chicory Braised with Grapefruit, Mandarin and Soy
-* Fennel and Lemon Dauphinoise
-* Gently Scented Rice
-* Lemon, Mustard and Rosemary Potatoes
-* Lime and Coconut Rice
-* Roast Tomatoes with Lemon and Lemon Thyme
-* Roasted Cauliflower with Lemon, Nigella Seeds and Gremolata
-* Stir-fried Cucumbers with Orange and Szechuan Peppercorns
-* Sweet Potato Mash with Lemon and Coriander
-* Sweet Potatoes Glazed with Clementines or Mandarins
+* [Baked Sweet Potatoes with Yuzu Butter](https://github.com/EanNewton/Citrus/blob/master/Sides/Baked%20Sweet%20Potatoes%20with%20yuzu%20Butter.md)
+* [Bitter Orange Rice](https://github.com/EanNewton/Citrus/blob/master/Sides/Bitter%20Orange%20Rice.md)
+* [Broad beans with Lemon and Dill](https://github.com/EanNewton/Citrus/blob/master/Sides/Broad%20Beans%20with%20Lemon%20and%20Dill.md)
+* [Brussels Sprouts with Lime, Chilli and Nigella Seeds](https://github.com/EanNewton/Citrus/blob/master/Sides/Brussels%20Sprouts%20with%20Lime%2C%20Chilli%20and%20Nigella%20Seeds.md)
+* [Buttered Courgettes with Lemon and Nutmeg](https://github.com/EanNewton/Citrus/blob/master/Sides/Buttered%20Courgettes%20with%20Lemon%20and%20Nutmeg.md)
+* [Caramelized Potatoes with Orange](https://github.com/EanNewton/Citrus/blob/master/Sides/Caramelized%20Potatoes%20with%20Orange.md)
+* [Chicory Braised with Grapefruit, Mandarin and Soy](https://github.com/EanNewton/Citrus/blob/master/Sides/Chicory%20Braised%20with%20Grapefruit%2C%20Mandarin%20and%20Soy.md)
+* [Fennel and Lemon Dauphinoise](https://github.com/EanNewton/Citrus/blob/master/Sides/Fennel%20and%20Lemon%20Dauphinoise.md)
+* [Gently Scented Rice](https://github.com/EanNewton/Citrus/blob/master/Sides/Gently%20Scented%20Rice.md)
+* [Lemon, Mustard and Rosemary Potatoes](https://github.com/EanNewton/Citrus/blob/master/Sides/Lemon%2C%20Mustard%20and%20Rosemary%20Potatoes.md)
+* [Lime and Coconut Rice](https://github.com/EanNewton/Citrus/blob/master/Sides/Lime%20and%20Coconut%20Rice.md)
+* [Roast Tomatoes with Lemon and Lemon Thyme](https://github.com/EanNewton/Citrus/blob/master/Sides/Roast%20Tomatoes%20with%20Lemon%20and%20Lemon%20Thyme.md)
+* [Roasted Cauliflower with Lemon, Nigella Seeds and Gremolata](https://github.com/EanNewton/Citrus/blob/master/Sides/Roasted%20Cauliflower%20with%20Lemon%2C%20Nigella%20Seeds%20and%20Gremolata.md)
+* [Stir-fried Cucumbers with Orange and Szechuan Peppercorns](https://github.com/EanNewton/Citrus/blob/master/Sides/Stir-fried%20Cucumbers%20with%20Orange%20and%20Szechuan%20Peppercorns.md)
+* [Sweet Potato Mash with Lemon and Coriander](https://github.com/EanNewton/Citrus/blob/master/Sides/Sweet%20Potato%20Mash%20with%20Lemon%20and%20Coriander.md)
+* [Sweet Potatoes Glazed with Clementines or Mandarins](https://github.com/EanNewton/Citrus/blob/master/Sides/Sweet%20Potatoes%20Glazed%20with%20Clementines%20or%20Mandarins.md)
 
 # Desserts
 *
