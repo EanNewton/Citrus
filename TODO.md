@@ -4,3 +4,4 @@
 * Add serving sizes to early recipes
 * Write tldr versions
 * em dashes
+* scan photos

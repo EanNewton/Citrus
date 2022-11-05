@@ -198,7 +198,22 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Rum and Marmalade Loaf Cake](https://github.com/EanNewton/Citrus/blob/master/Baking/Rum%20and%20Marmalade%20Loaf%20Cake.md)
 
 # Sweet Preserves and Sweets
-*
+* Candied Citrus Peel
+* Candied Citrus Zest
+* Candied Fennel Seeds
+* Candied Whole Fruit
+* Chewy Citrus Caramels
+* Chocolate Bark
+* Citrus Sugar
+* Citrus-Flecked Lollies with Sherbet
+* Classic Seville Orange Marmalade
+* Dark and Stormy Marmalade
+* Honey Bears
+* Lemon Curd
+* Lime and Lemon Marmalade
+* Quince, Clementine, and Rose Petal Jelly
+* Simple No-Cook Syrup
+* Turkish Delight
 
 # Drinks
 * A Few Favourite Hot Teas
