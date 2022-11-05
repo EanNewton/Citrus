@@ -2,7 +2,7 @@
 
 Makes 1 large or 6 smaller slabs
 
----
+—-
 
 ## Ingredients
 
@@ -15,7 +15,7 @@ Makes 1 large or 6 smaller slabs
 * Nuts
 * A few dried, crumbled rose leaves
 
----
+—-
 
 ## Steps
 
@@ -25,7 +25,7 @@ Makes 1 large or 6 smaller slabs
 
     * For dark chocolate, I like either candied orange or grapefruit peel with finely chopped nuts (hazelnuts or pistachios work best).
     
-    * For milk chocolate, I like candied lime with salt, or candied orange with candied fennel seeds (see: ). 
+    * For milk chocolate, I like candied lime with salt, or candied orange with [candied fennel seeds](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Candied%20Fennel%20Seeds.md). 
     
     * For white chocolate, try candied lemon peel, perhaps with a few rose petals dotted about.
 

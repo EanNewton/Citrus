@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -32,11 +32,11 @@ Serves 4
 * 1 tbsp fish sauce
 * A few cilantro leaves
 
----
+—-
 
 ## Steps
 
 1.  Heat a teaspoon of the coconut oil in a large, heavy-based frying pan then add the short ribs and fry on all sides until very well seared and a rich dark brown. Do not stint on this step; it will take up to 10 minutes to do properly.
-2.  Put the shallots, ginger, garlic, lemongrass, coriander stems, lime zest, and juice into a small food processor with a splash of water and blitz -- you want a fairly smooth texture. Heat the remaining coconut oil in a large flameproof casserole. Add the freshly made paste and fry on a medium heat for several minutes until very aromatic and starting to brown, then add the spices, tomato paste and tamarind paste. Cook, stirring constantly, for a couple more minutes. Add the short ribs and turn to coat in the paste, then pour over the stock, coconut milk, and fish or soy sauce. Add the sugar, star anise and lime leaves, if using. Bring to a boil and season with salt and pepper. Turn down, cover and cook for around 1 1/2 - 2 hours, until the short ribs are tender and threatening to detach themselves from the bone.
+2.  Put the shallots, ginger, garlic, lemongrass, coriander stems, lime zest, and juice into a small food processor with a splash of water and blitz — you want a fairly smooth texture. Heat the remaining coconut oil in a large flameproof casserole. Add the freshly made paste and fry on a medium heat for several minutes until very aromatic and starting to brown, then add the spices, tomato paste and tamarind paste. Cook, stirring constantly, for a couple more minutes. Add the short ribs and turn to coat in the paste, then pour over the stock, coconut milk, and fish or soy sauce. Add the sugar, star anise and lime leaves, if using. Bring to a boil and season with salt and pepper. Turn down, cover and cook for around 1 1/2 - 2 hours, until the short ribs are tender and threatening to detach themselves from the bone.
 3.  Remove the short ribs to a plate, then pour the cooking liquor into a refrigerator-friendly container. When it is cool, chill until you can easily scrape off the fat that will collect at the top. At this point you can reheat the liquor and ribs together, reducing the liquid a little.
 4.  To make the salad, sprinkle the carrots and papaya with salt and leave to stand for 30 minutes, then rinse and mix with the lime juice and fish sauce. Add the coriander leaves and serve the salad with the ribs.

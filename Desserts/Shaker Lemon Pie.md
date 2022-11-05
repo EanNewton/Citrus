@@ -2,7 +2,7 @@
 
 Serves 6-8
 
----
+—-
 
 ## Ingredients
 
@@ -20,7 +20,7 @@ Serves 6-8
 * 250 g spelt or all purpose flour
 * A little milk for brushing
 
----
+—-
 
 ## Steps
 

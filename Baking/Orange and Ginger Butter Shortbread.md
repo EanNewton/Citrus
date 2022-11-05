@@ -2,7 +2,7 @@
 
 Makes 8 slices
 
----
+—-
 
 ## Ingredients
 
@@ -18,7 +18,7 @@ Makes 8 slices
 * 50 g tbsp pine nuts
 * Confectioners sugar, for dusting
 
----
+—-
 
 ## Steps
 

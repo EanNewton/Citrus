@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -30,7 +30,7 @@ Serves 4
 * 100 g / 2/3 cup cooked green lentils (preferably al dente)
 * A dash of light soy sauce or tamari (optional)
 
----
+—-
 
 ## Steps
 

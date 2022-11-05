@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -32,7 +32,7 @@ Serves 4
 * Juice of 1/2 lime
 * 1/2 tsp smoked chilli powder or paste
 
----
+—-
 
 ## Steps
 

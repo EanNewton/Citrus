@@ -1,14 +1,14 @@
 # Cheat's Preserved Citrus
 
 
----
+—-
 
 ## Ingredients
 
 * 4 lemons (or any other type of citrus)
 * 1 tsp sea salt
 
----
+—-
 
 ## Steps
 

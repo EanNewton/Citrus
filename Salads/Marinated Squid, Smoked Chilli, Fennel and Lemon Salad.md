@@ -1,7 +1,7 @@
 # Marinated Squid, Smoked Chilli, Fennel and Lemon Salad
 
 
----
+—-
 
 ## Ingredients
 
@@ -19,7 +19,7 @@
 *  Leaves from small bunches of parsley, Greek basil (the small-leaved stuff if you can get it, otherwise regular basil) and oregano
 *  Salt and pepper
 
----
+—-
 
 ## Steps
 

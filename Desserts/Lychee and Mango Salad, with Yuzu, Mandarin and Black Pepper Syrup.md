@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ Serves 4
 * 1 tsp grated fresh root ginger
 * 200 ml / 3/4 cup creme fraiche
 
----
+—-
 
 ## Steps
 

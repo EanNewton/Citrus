@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ Serves 4
 * A few snips of dill, plus extra for serving (optional)
 * Salt and pepper
 
----
+—-
 
 ## Steps
 

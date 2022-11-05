@@ -1,13 +1,13 @@
 # Yuzukosho
 
----
+—-
 
 ## Ingredients
 
 * 1 part citrus zest to 4 parts chilli
 * 10% of the final weight in salt
 
----
+—-
 
 ## Steps
 

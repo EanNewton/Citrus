@@ -1,7 +1,7 @@
 # Lemon-Mandarin Kosho
 
 
----
+—-
 
 ## Ingredients
 
@@ -10,7 +10,7 @@
 * 40 g medium-hot red chillies, deseeded and finely chopped
 * 6 g salt
 
----
+—-
 
 ## Steps
 

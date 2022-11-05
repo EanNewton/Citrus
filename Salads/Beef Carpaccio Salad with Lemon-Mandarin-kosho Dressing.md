@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -16,7 +16,7 @@ Serves 4
 
 ### For the carpaccio dressing
 * 2 egg yolks
-* 1-2 tsp lemon-mandarin-kosho, to taste (see: )
+* 1-2 tsp [lemon-mandarin-kosho](https://github.com/EanNewton/Citrus/blob/master/Preserves/Lemon-Mandarin%20Kosho.md.backup), to taste
 * 2 tbsp mandarin or orange juice
 * 1 tbsp lemon juice
 * A pinch of sugar
@@ -30,7 +30,7 @@ Serves 4
 1 tsp white wine vinegar
 1/2 tsp runny honey
 
----
+—-
 
 ## Steps
 

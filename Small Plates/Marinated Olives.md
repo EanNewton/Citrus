@@ -1,7 +1,7 @@
 # Marinated Olives
 
 
----
+—-
 
 ## Ingredients
 
@@ -12,7 +12,7 @@
 * 1/2 tsp dried rosemary, or several sprigs fresh finely chopped
 * 2 tbsp olive oil
 
----
+—-
 
 ## Steps
 

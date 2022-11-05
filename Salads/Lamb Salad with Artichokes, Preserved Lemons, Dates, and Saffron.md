@@ -2,14 +2,14 @@
 
 Serves 2
 
----
+—-
 
 ## Ingredients
 
 * 1 tbsp olive oil
 * 200 g / 7 oz roast lamb, torn into strips
 * A jar of roast artichokes, rinsed and sliced
-* 2 small preserved lemons, quartered, peel finely diced, or 2 tbsp quick preserved lemon zest (see: )
+* 2 small preserved lemons, quartered, peel finely diced, or 2 tbsp [quick preserved lemon zest](https://github.com/EanNewton/Citrus/blob/master/Preserves/Cheats%20Preserved%20Citrus.md)
 * A medium bag of lamb's lettuce
 * 2-3 fat, squishy dates, finely chopped
 * A handful of mint leaves
@@ -24,7 +24,7 @@ Serves 2
 * 2 tbsp olive oil
 * Sea salt
 
----
+—-
 
 ## Steps
 

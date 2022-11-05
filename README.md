@@ -7,7 +7,7 @@
 
 Shared under the [United States Copyright Office Compendium chapter 313.4(F)](https://www.copyright.gov/comp3/docs/compendium.pdf) and [Circular 33](https://www.copyright.gov/circs/circ33.pdf). If you found this repo helpful please consider buying Catherine's book and [buying me a coffee](#buy-me-a-coffee).
 
----
+—-
 
 # Table of Contents
 
@@ -15,11 +15,11 @@ Shared under the [United States Copyright Office Compendium chapter 313.4(F)](ht
 - [Preserves](#preserves)
 - [Soups](#soups)
 - [Small Plates](#small-plates)
----
+—-
 
 # BUY ME A COFFEE
 
----
+—-
 
 I love teaching others and seeing the community grow. Time is limited but donations will allow me to to help the community more. How useful was this to you? If it  was I would be humbly grateful for your donation.🙏
 
@@ -27,7 +27,7 @@ I love teaching others and seeing the community grow. Time is limited but donati
 
 Thank you! May you be rich as Crassus and happy as Buddha! :)
 
-----
+——
 
 # Preserves
 * [Cheat's Preserved Citrus](https://github.com/EanNewton/Citrus/blob/master/Preserves/Cheats%20Preserved%20Citrus.md)
@@ -231,5 +231,5 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Lemonade](https://github.com/EanNewton/Citrus/blob/master/Drinks/Lemonade.md)
 * [Liqueurs and Cellos](https://github.com/EanNewton/Citrus/blob/master/Drinks/Liqueurs%20and%20Cellos.md)
 * [Orange and Coffee Liqueur](https://github.com/EanNewton/Citrus/blob/master/Drinks/Orange%20and%20Coffee%20Liqueur.md)
-* [Punch -- The long and the short of it](https://github.com/EanNewton/Citrus/blob/master/Drinks/Punch%20--%20The%20long%20and%20the%20short%20of%20it.md)
+* [Punch — The long and the short of it](https://github.com/EanNewton/Citrus/blob/master/Drinks/Punch%20—%20The%20long%20and%20the%20short%20of%20it.md)
 * [Vin de Pamplemousse](https://github.com/EanNewton/Citrus/blob/master/Drinks/Vin%20de%20Pamplemousse.md)

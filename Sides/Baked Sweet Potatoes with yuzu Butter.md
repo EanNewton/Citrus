@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -14,7 +14,7 @@ Serves 4
 * Olive oil
 * Salt
 
----
+—-
 
 ## Steps
 

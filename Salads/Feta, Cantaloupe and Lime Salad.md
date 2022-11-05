@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -21,7 +21,7 @@ Serves 4
 * 5 g fresh root ginger, peeled and grated
 * Salt and pepper
 
----
+—-
 
 ## Steps
 

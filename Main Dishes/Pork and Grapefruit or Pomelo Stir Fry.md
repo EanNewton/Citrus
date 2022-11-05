@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -23,11 +23,11 @@ Serves 4
 * Salt and pepper
 * Steamed jasmine rice or noodles, to serve
 
----
+—-
 
 ## Steps
 
-1.  Heat the oil in a large wok. When it is hot -- the air above it should be shimmering -- add the ginger, spring onion whites, garlic, chillies, red pepper, and pomelo pith. Fry for 2-3 minutes, stirring constantly, then add the pork. Season with salt and pepper.
+1.  Heat the oil in a large wok. When it is hot — the air above it should be shimmering — add the ginger, spring onion whites, garlic, chillies, red pepper, and pomelo pith. Fry for 2-3 minutes, stirring constantly, then add the pork. Season with salt and pepper.
 2.  Stir fry for another minute or two then, still on high heat, add the coconut milk and fish sauce. Cook for 3-4 minutes until the sauce has reduced a little, then taste and squeeze in some lime juice if you think it needs it. Remove from the heat and add the toasted coconut, grapefruit or pomelo segments, and the Thai basil. Sprinkle with the spring onion greens and serve immediately with some rice or noodles, and perhaps some oriental greens on the side.
 
 ## To prepare the pomelo pith

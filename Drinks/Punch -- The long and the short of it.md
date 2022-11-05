@@ -1,8 +1,8 @@
-# Punch -- The long and the short of it
+# Punch — The long and the short of it
 
 Serves 8
 
----
+—-
 
 ## Ingredients
 
@@ -18,7 +18,7 @@ Serves 8
 * A generous dash of Angostura bitters
 * A rasp of nutmeg
 
----
+—-
 
 ## Steps
 
@@ -27,6 +27,6 @@ Serves 8
 
 ## The long of it
 
-Wherever you find limes growing abundantly, you will find drinks that happily couple them with the local spirit. The shorter versions of these follow the same pattern -- lime and sugar or sugar syrup are muddled together, perhaps with another aromatic such as mint, before the spirit is added. In the Caribbean, we have the Ti'Punch, found in the French islands, made with the local rhum agricole. In Brazil cachaça mixes with muddled limes and mint for caipirinha; in Peru, the same drink is made with pisco. A slightly longer drink is the rum-based mojito or the tequila-based margarita, but for me, these are still on the short side. I have spent many evenings when all of these are made one after another, and as much as I love them, it is an exhausting pastime. I would much rather make a long drink which does not need replenishing every 5 minutes.
+Wherever you find limes growing abundantly, you will find drinks that happily couple them with the local spirit. The shorter versions of these follow the same pattern — lime and sugar or sugar syrup are muddled together, perhaps with another aromatic such as mint, before the spirit is added. In the Caribbean, we have the Ti'Punch, found in the French islands, made with the local rhum agricole. In Brazil cachaça mixes with muddled limes and mint for caipirinha; in Peru, the same drink is made with pisco. A slightly longer drink is the rum-based mojito or the tequila-based margarita, but for me, these are still on the short side. I have spent many evenings when all of these are made one after another, and as much as I love them, it is an exhausting pastime. I would much rather make a long drink which does not need replenishing every 5 minutes.
 
-So then to my favourite rum punch... I strongly believe the best rum punches in the world are to be found on the Carribean island of Nevis. I was once given a freshly made bottle as a welcome gift and spent weeks trying to reverse engineer it -- my only clue was sour oranges. I do now think this recipe nails it. It follows the classic "1 of sour, 2 of sweet, 3 of strong and 4 of weak". Stick to this and you can't go too far wrong. Mine is just made more sour by the weak including sour as well as sweet orange. This makes quite a large amount, but it seems to disappear quickly and you can cut it down considerably if you wish.
+So then to my favourite rum punch... I strongly believe the best rum punches in the world are to be found on the Carribean island of Nevis. I was once given a freshly made bottle as a welcome gift and spent weeks trying to reverse engineer it — my only clue was sour oranges. I do now think this recipe nails it. It follows the classic "1 of sour, 2 of sweet, 3 of strong and 4 of weak". Stick to this and you can't go too far wrong. Mine is just made more sour by the weak including sour as well as sweet orange. This makes quite a large amount, but it seems to disappear quickly and you can cut it down considerably if you wish.

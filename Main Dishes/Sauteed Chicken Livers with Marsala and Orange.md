@@ -2,7 +2,7 @@
 
 Serves 2
 
----
+—-
 
 ## Ingredients
 
@@ -20,7 +20,7 @@ Serves 2
 * Sourdough toast, buttered
 * A handful of parsley, finely chopped (optional)
 
----
+—-
 
 ## Steps
 

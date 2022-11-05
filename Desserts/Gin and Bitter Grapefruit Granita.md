@@ -2,7 +2,7 @@
 
 Makes about 750 ml / 1 1/2 pints
 
----
+—-
 
 ## Ingredients
 
@@ -14,7 +14,7 @@ Makes about 750 ml / 1 1/2 pints
 * 50 ml / 3 1/2 tbsp gin
 * Grapefruit bitters, to serve (optional)
 
----
+—-
 
 ## Steps
 

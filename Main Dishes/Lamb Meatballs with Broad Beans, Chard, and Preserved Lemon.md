@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -36,7 +36,7 @@ Serves 4
 * 1 tsp sumac
 * 1 tsp dried mint
 
----
+—-
 
 ## Steps
 

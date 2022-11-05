@@ -1,6 +1,6 @@
 # Lime-Pickled Red Onions
 
----
+—-
 
 ## Ingredients
 
@@ -14,7 +14,7 @@
 * Freshly chopped herbs, such as coriander (cilantro) or parsley
 * 1 tsp sumac
 
----
+—-
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -36,10 +36,10 @@ Serves 4
 * Fresh ricotta or other creamy cheese
 * A few mint, basil or verbena leaves
 
----
+—-
 
 ## Steps
 
-1.  First make a quick stock. Put the pea pods, asparagus and leek trimmings left over from preparing the vegetables into a medium saucepan, along with the tarragon, lime zest or leaves and verbena or lemon balm leaves, if using. Add the spices, then cover with cold water -- only about 600 ml / 2 1/2 cups. Bring to the boil, then turn down the heat and leave to simmer for 15 minutes. Strain through a double layer of muslin.
-2.  Melt the butter in a saucepan or flameproof casserole over a medium heat, then add the potatoes and leeks. Season with plenty of salt, then pour in the wine or vermouth. Allow this to almost completely boil off, then turn down the heat, cover, and leave to braise gently for around 10 minutes. Add 500 ml / 2 cups of the stock and cook for a further 5 minutes. Add the broad beans (fava beans), asparagus and zucchini and simmer for a few minutes until just al dente, then add the peas -- if they are very fresh and young, they will barely need cooking.
+1.  First make a quick stock. Put the pea pods, asparagus and leek trimmings left over from preparing the vegetables into a medium saucepan, along with the tarragon, lime zest or leaves and verbena or lemon balm leaves, if using. Add the spices, then cover with cold water — only about 600 ml / 2 1/2 cups. Bring to the boil, then turn down the heat and leave to simmer for 15 minutes. Strain through a double layer of muslin.
+2.  Melt the butter in a saucepan or flameproof casserole over a medium heat, then add the potatoes and leeks. Season with plenty of salt, then pour in the wine or vermouth. Allow this to almost completely boil off, then turn down the heat, cover, and leave to braise gently for around 10 minutes. Add 500 ml / 2 cups of the stock and cook for a further 5 minutes. Add the broad beans (fava beans), asparagus and zucchini and simmer for a few minutes until just al dente, then add the peas — if they are very fresh and young, they will barely need cooking.
 3.  To make the oil, put in a food processor with the lime zest and juice, and the tarragon. Season with salt and pepper and blitz until the oil is green flecked. Serve the vegetables with a tiny amount of the broth to keep them moist, with large spoonfuls of ricotta, a sprinkling of herbs and the oil drizzled over.

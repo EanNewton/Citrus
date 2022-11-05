@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Serves 4
 * A few thyme springs, bruised
 * Sea salt
 
----
+—-
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ Serves 4
 * 1 tbsp finely chopped dill
 * 1/2 tsp fennel seeds, finely crushed (optional)
 
----
+—-
 
 ## Steps
 
@@ -38,5 +38,5 @@ Serves 4
 3.  Heat the olive oil and the butter together until the butter has melted then add the lemon zest and juice. Pour all but a tablespoon of this mixture over the potatoes and season with salt and pepper. Add the garlic cloves, reserving a couple for the fish. Roast in the oven for 30 minutes.
 4.  Cut a few slits into the fish on both sides. Peel and finely slice the reserved garlic and stuff some into the slits along with a few herb sprigs. Put the lemon slices, more herbs and few more slices of garlic in the cavity of the fish.
 5.  Put the fish on top of the potatoes, then drizzle over the reserved tablespoon of lemony butter and a little more olive oil. Mix the wine and ouzo together and pour this over the fish and potatoes. Roast in the oven for a further 25-30 minutes until the fish is just cooked through.
-6.  Meanwhile, make the sauce. Put the egg yolks and mustard in a bowl with a pinch of salt. Start drizzling in the oil, very gradually, whisking with a balloon whisk until it emulsifies and starts to thicken. At this point you can speed up the drizzling a little. When you have incorporated all the oil, whisk in the yogurt, ouzo and lemon juice. Season with salt, then taste -- you may need a little more, along with a pinch of sugar out the flavors. Stir in the dill and the fennel seeds, if using.
-7.  For the caper garnish, heat a tablespoon of olive oil in a frying pan. When very hot, add the capers -- they will splutter for a few moments. When it subsides, remove from the heat. Pour over the fish and serve immeaditely.
+6.  Meanwhile, make the sauce. Put the egg yolks and mustard in a bowl with a pinch of salt. Start drizzling in the oil, very gradually, whisking with a balloon whisk until it emulsifies and starts to thicken. At this point you can speed up the drizzling a little. When you have incorporated all the oil, whisk in the yogurt, ouzo and lemon juice. Season with salt, then taste — you may need a little more, along with a pinch of sugar out the flavors. Stir in the dill and the fennel seeds, if using.
+7.  For the caper garnish, heat a tablespoon of olive oil in a frying pan. When very hot, add the capers — they will splutter for a few moments. When it subsides, remove from the heat. Pour over the fish and serve immeaditely.

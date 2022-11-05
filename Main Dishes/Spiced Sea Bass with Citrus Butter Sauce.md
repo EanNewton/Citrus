@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -28,12 +28,12 @@ Serves 4
 * 350 g  / 12 oz spring greens, very finely shredded
 * 350 g cooked chickpeas
 
----
+—-
 
 ## Steps
 
 1.  Blot the sea bass fillets and lie skin-side down on kitchen paper. Combine all the rub ingredients and sprinkle evenly over the fillets. Press lightly.
-2.  Before you start frying the fish, cook the spring greens. Wash thoroughly, then put in a large lidded saucepan without shaking off too much water. Cover and heat gently until the greens have wilted down and are just al dente -- they should be a fresh, bright green.
+2.  Before you start frying the fish, cook the spring greens. Wash thoroughly, then put in a large lidded saucepan without shaking off too much water. Cover and heat gently until the greens have wilted down and are just al dente — they should be a fresh, bright green.
 3.  Heat the olive oil in a large frying pan. When hot, add the sea bass fillets, skin side down, and fry for a couple of minutes. Flip over and cook for a further 30 seconds. Remove from the frying pan and keep warm.
 4.  Add the butter, garlic, lemon zest, and juice and orange juice to the pan. Turn up the heat and let the mixture bubble until you have a glossy, syrupy sauce. Pour into a jug.
 5.  Deglaze the pan with the water. Add the chickpeas and spring greens and stir to pick up any flavour residue. Season with salt and pepper.

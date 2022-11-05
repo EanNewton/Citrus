@@ -2,7 +2,7 @@
 
 Makes 12
 
----
+—-
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ Makes 12
 * 1 tsp ground mixed spice
 * A pinch of salt
 * 75 g chopped pecans
-* 50 g finely chopped Candied Orange Peel (see: )
+* 50 g finely chopped [Candied Orange Peel](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Candied%20Citrus%20Peel.md)
 
 ### To glaze
 * 1 egg beaten
@@ -36,13 +36,13 @@ Makes 12
 * 1 tbsp soft light brown sugar
 * 1 tbsp bourbon or water
 
----
+—-
 
 ## Steps
 
 1.  Put the milk in a saucepan and bring up to almost boiling point. Remove from the heat and add the butter. Leave to stand until the butter has melted and it has cooled to blood temperature.
-2.  Put the flours in a large bowl with the yeast, sugar and salt. Make a well in the middle. Beat the egg into the milk and butter mixture and stir in the orange zest. Add this to the flour and stir until well combined -- you will find that you have a very soft, sticky dough.
-3.  Lightly oil your hands and the work surface then turn out the dough. Knead by sliding your fingers under the dough, pulling it up, and slapping it back down onto the work surface. When you move your hands up away from the dough it will come with you -- stretch it upwards and to the sides at the same time, then tuck it back under when you repeat the whole motion of lifting it again. After a few minutes you will have a dough that is no longer sticky and can be formed into a smooth ball.
+2.  Put the flours in a large bowl with the yeast, sugar and salt. Make a well in the middle. Beat the egg into the milk and butter mixture and stir in the orange zest. Add this to the flour and stir until well combined — you will find that you have a very soft, sticky dough.
+3.  Lightly oil your hands and the work surface then turn out the dough. Knead by sliding your fingers under the dough, pulling it up, and slapping it back down onto the work surface. When you move your hands up away from the dough it will come with you — stretch it upwards and to the sides at the same time, then tuck it back under when you repeat the whole motion of lifting it again. After a few minutes you will have a dough that is no longer sticky and can be formed into a smooth ball.
 4.  Put the dough into an oiled bowl then cover with plastic wrap or a damp cloth. Leave to rise for around 1 1/2 hours.
 5.  While the dough is rising, make the filling. Put the raisins and bourbon in a small saucepan and bring to a boil, then remove from the heat and leave to infuse. Beat the butter with the maple syrup, sugar, spices and salt until you have a creamy, toffee-colored butter.
 6.  Preheat the oven to 200 C / 400 F. 

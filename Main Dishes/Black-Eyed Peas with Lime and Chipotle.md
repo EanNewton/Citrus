@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -32,7 +32,7 @@ Serves 4
 * Cilantro leaves
 * Warm corn tortillas (optional; nice but not at all necessary)
 
----
+—-
 
 ## Steps
 

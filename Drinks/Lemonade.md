@@ -2,7 +2,7 @@
 
 Makes about 1 litre / 2 pints
 
----
+—-
 
 ## Ingredients
 
@@ -10,7 +10,7 @@ Makes about 1 litre / 2 pints
 * 100-150 g caster sugar, to taste
 * 1 litre / 4 cup water, or a mixture of water and sparkling water
 
----
+—-
 
 ## Steps
 
@@ -21,9 +21,9 @@ Makes about 1 litre / 2 pints
 
 ### The Quickest Version
 
-* This is a very quick and easy drink, found wherever you get fresh limes. Simply take the juice of 2 limes, mix with 1/2 tsp sugar, slightly more of salt and top with sparkling water. I like to add a dash of bitters as well. I am told it makes a very good hangover cure -- as a friend of mine says: "Like your own electrolyte sachet but nicer."
+* This is a very quick and easy drink, found wherever you get fresh limes. Simply take the juice of 2 limes, mix with 1/2 tsp sugar, slightly more of salt and top with sparkling water. I like to add a dash of bitters as well. I am told it makes a very good hangover cure — as a friend of mine says: "Like your own electrolyte sachet but nicer."
 
 ### Preserved Lemonade
-* It is based on a Vietnamese recipe, and you can use any citrus which has been preserved the traditional way -- I really love limequats for this, but lemons, limes and sour oranges are all good. it is very simple.
-* Put 1/4 - 1/2 preserved lemon or similar in a glass along with some granulated sugar -- start with a couple of teaspoons. Muddle it all together to release the juices from the citrus, then top with sparkling water. Taste and adjust the sweetness levels if necessary. Try adding cucumber slices for sharp contrast or add a measure of rum or vodka for something alcoholic.
+* It is based on a Vietnamese recipe, and you can use any citrus which has been preserved the traditional way — I really love limequats for this, but lemons, limes and sour oranges are all good. it is very simple.
+* Put 1/4 - 1/2 preserved lemon or similar in a glass along with some granulated sugar — start with a couple of teaspoons. Muddle it all together to release the juices from the citrus, then top with sparkling water. Taste and adjust the sweetness levels if necessary. Try adding cucumber slices for sharp contrast or add a measure of rum or vodka for something alcoholic.
 

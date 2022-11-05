@@ -2,7 +2,7 @@
 
 Serves 8-10
 
----
+—-
 
 ## Ingredients
 
@@ -26,7 +26,7 @@ Serves 8-10
 * Icing sugar
 * Fresh or dried chamomile leaves
 
----
+—-
 
 ## Steps
 

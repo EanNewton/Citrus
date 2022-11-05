@@ -2,7 +2,7 @@
 
 Serves 4
 
----
+—-
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Serves 4
 
 ### For the tomatillo, grapefruit, and chilli salsa
 * 4 tomatillos (or green tomatoes, or failing that just use red), diced
-* 1/2 red onion, diced, or the same amount of Lime-Pickled Red Onions (see: )
+* 1/2 red onion, diced, or the same amount of [Lime-Pickled Red Onions](https://github.com/EanNewton/Citrus/blob/master/Preserves/Lime-Pickled%20Red%20Onions.md)
 * 1 garlic clove, finely chopped
 * 1 large pink or red grapefruit, segmented and diced
 * 1 red chilli, finely chopped
@@ -41,11 +41,11 @@ Serves 4
 * [Fresh Corn Tortillas](https://github.com/EanNewton/Citrus/blob/master/Main%20Dishes/Corn%20Tortillas.md)
 * Shredded lettuce
 
----
+—-
 
 ## Steps
 
 1.  First prepare the fish. In a bowl, whisk together the marinade ingredients, pour over the fish fillets and leave to marinate for at least an hour.
-2.  Meanwhile, make the salsas. Mix the ingredients for each in 2 separate bowls and season well with salt and pepper. Leave to stand -- these are best at room temperature. (You can puree the avocado if you like a crema -- I prefer it chunky.)
+2.  Meanwhile, make the salsas. Mix the ingredients for each in 2 separate bowls and season well with salt and pepper. Leave to stand — these are best at room temperature. (You can puree the avocado if you like a crema — I prefer it chunky.)
 3.  Heat a frying pan until very hot, then add a little olive oil. Add the fish fillets and cook until they are almost completely done (i.e. the flesh will be turning opaque up the sides), then flip for another minute. Remove from the pan.
 4.  Pile the fillets onto the tortillas and top with shredded lettuce and the salsas.

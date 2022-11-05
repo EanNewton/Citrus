@@ -1,7 +1,7 @@
 # Lemon and Paprika Spiced Almonds
 
 
----
+—-
 
 ## Ingredients
 
@@ -13,7 +13,7 @@
 * 2 tsp olive oil
 * A pinch of citric acid (optional, but adds an extra hit of sour fizziness)
 
----
+—-
 
 ## Steps
 

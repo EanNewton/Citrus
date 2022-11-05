@@ -2,7 +2,7 @@
 
 Makes about 1 liter / 2 pints
 
----
+—-
 
 ## Ingredients
 
@@ -17,10 +17,10 @@ Makes about 1 liter / 2 pints
 * Angostura bitters
 * Freshly grated nutmeg
 
----
+—-
 
 ## Steps
 
 1.  Put the sugar, water, and cinnamon stick in a saucepan. Simmer over a low heat, stirring constantly, until the sugar dissolved, then continue to simmer very gently for 10 minutes. Add the lime zest and simmer for a further 5 minutes, then leave to cool.
-2.  Strain the syrup into a bowl, then mix with the lime juice, rum and your soft drink of choice. Churn in an ice-cream maker for around 30 minutes (it won't thicken properly at this stage, because of the alcohol -- the upside to this being that it will freeze to a state that is scoopable as soon as you remove it from the freezer).
+2.  Strain the syrup into a bowl, then mix with the lime juice, rum and your soft drink of choice. Churn in an ice-cream maker for around 30 minutes (it won't thicken properly at this stage, because of the alcohol — the upside to this being that it will freeze to a state that is scoopable as soon as you remove it from the freezer).
 3.  Serve in scoops (or blitz to a slush) with a dash of bitters and a rasp of nutmeg.
