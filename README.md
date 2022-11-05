@@ -143,7 +143,36 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Sweet Potatoes Glazed with Clementines or Mandarins](https://github.com/EanNewton/Citrus/blob/master/Sides/Sweet%20Potatoes%20Glazed%20with%20Clementines%20or%20Mandarins.md)
 
 # Desserts
-*
+* 3 Classic Ice Lollies
+    * Lemon Iced Tea Ice Lolly
+    * Lime, Melon and Mint Ice Lolly
+    * Mandarin and Yuzu Ice Lolly
+* A Very Adaptable Citrus Sorbet
+* Bergamot and Rose Turkish Delight Pavlova
+* Blackberry and Lemon Steamed Pudding with Lemon and Gin Sauce
+* Blackberry, Orange and Orange Blossom Clafoutis
+* Blood Orange and Cardamom Tarte Tatin
+* Blood Orange and Rhubarb Meringue Pie
+* Blood Orange and Rosemary Jelly
+* Chocolate Lime Puddings
+* Classic Lemon Tart
+* Earl Grey and Rose Parfait
+* Gin and Bitter Grapefruit Granita
+* Grapefruit, Honey and Cinnamon Fool with Cinnamon Snaps
+    * Cinnamon Rum Snaps
+* Honeycomb Jelly with Summer Fruits
+* Lemon and Lemon Verbena Pots de Creme
+* Lemon Ice Cream with Almond and Fennel Praline
+* Lime, Cinnamon and Rum Sorbet
+* Lime, Ginger and Passionfruit Icebox Pie
+* Lime, Kaffir Lime, and Basil Ice Cream
+* Lychee and Mango Salad, with Yuzu, Mandarin and Black Pepper Syrup
+* Mandarin Creme Caramel
+* Orange and Fig Salad with Orange Blossom Ricotta and Pistachio Praline
+* Rum and Orange Bread with Butter Pudding
+* Shaker Lemon Pie
+* Sussex Pond Puddings
+* Yuzu, Mandarin and Ginger Souffle
 
 # Baking
 *
