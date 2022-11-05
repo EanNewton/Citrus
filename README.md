@@ -182,19 +182,20 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Yuzu, Mandarin and Ginger Souffle](https://github.com/EanNewton/Citrus/blob/master/Desserts/Yuzu%2C%20Mandarin%20and%20Ginger%20Souffle.md)
 
 # Baking
-* An Alternative Christmas Cake
-* Blood Orange, Pomegranate and Hazelnut Meringue Cake
-* Citrus Butter Biscuits
-* Classic Drizzle Cake
-* Jaffa Cakes
-* Lemon Curd Slices
-* Lim, Chamomile, and Honey Cake
-* Liquorice and Lemon Sherbet Fairy Cakes
-* Madeleines
-* Mr Happy's Sunshine Cake
-* Orange and Ginger Butter Shortbread
-* Orange and Pistachio Cake
-* Rum and Marmalade Loaf Cake
+* [An Alternative Christmas Cake](https://github.com/EanNewton/Citrus/blob/master/Baking/An%20Alternative%20Christmas%20Cake.md)
+* [Blood Orange, Pomegranate and Hazelnut Meringue Cake](https://github.com/EanNewton/Citrus/blob/master/Baking/Blood%20Orange%2C%20Pomegranate%20and%20Hazelnut%20Meringue%20Cake.md)
+* [Citrus Butter Biscuits](https://github.com/EanNewton/Citrus/blob/master/Baking/Citrus%20Butter%20Biscuits.md)
+* [Classic Drizzle Cake](https://github.com/EanNewton/Citrus/blob/master/Baking/Classic%20Drizzle%20Cake.md)
+* [Jaffa Cakes](https://github.com/EanNewton/Citrus/blob/master/Baking/Jaffa%20Cakes.md)
+* [Lemon Curd Slices](https://github.com/EanNewton/Citrus/blob/master/Baking/Lemon%20Curd%20Slices.md)
+* [Lime, Chamomile, and Honey Cake](https://github.com/EanNewton/Citrus/blob/master/Baking/Lime%2C%20Chamomile%2C%20and%20Honey%20Cake.md)
+* [Liquorice and Lemon Sherbet Fairy Cakes](https://github.com/EanNewton/Citrus/blob/master/Baking/Liquorice%20and%20Lemon%20Sherbet%20Fairy%20Cakes.md)
+* [Madeleines](https://github.com/EanNewton/Citrus/blob/master/Baking/Madeleines.md)
+* [Mr Happy's Sunshine Cake](https://github.com/EanNewton/Citrus/blob/master/Baking/Mr%20Happy's%20Sunshine%20Cake.md)
+* [Orange and Ginger Butter Shortbread](https://github.com/EanNewton/Citrus/blob/master/Baking/Orange%20and%20Ginger%20Butter%20Shortbread.md)
+* [Orange and Pistachio Cake](https://github.com/EanNewton/Citrus/blob/master/Baking/Orange%20and%20Pistachio%20Cake.md)
+* [Orange, Pecan, and Cinnamon Rolls](https://github.com/EanNewton/Citrus/blob/master/Baking/Orange%2C%20Pecan%2C%20and%20Cinnamon%20Rolls.md)
+* [Rum and Marmalade Loaf Cake](https://github.com/EanNewton/Citrus/blob/master/Baking/Rum%20and%20Marmalade%20Loaf%20Cake.md)
 
 # Sweet Preserves and Sweets
 *
