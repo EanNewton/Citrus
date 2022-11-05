@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -32,7 +32,7 @@ Serves 4
 * 1 tbsp fish sauce
 * A few cilantro leaves
 
-—-
+---
 
 ## Steps
 

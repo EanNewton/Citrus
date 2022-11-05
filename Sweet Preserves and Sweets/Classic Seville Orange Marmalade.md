@@ -2,7 +2,7 @@
 
 Makes about 10 x 450 g / 1 lb jars
 
-—-
+---
 
 ## Ingredients
 
@@ -11,7 +11,7 @@ Makes about 10 x 450 g / 1 lb jars
 * Juice of 1 lemon
 * 1 kg / 5 cups preserving sugar or granulated sugar
 
-—-
+---
 
 ## Steps
 

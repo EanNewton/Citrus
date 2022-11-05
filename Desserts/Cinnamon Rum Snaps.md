@@ -1,6 +1,6 @@
 # Cinnamon Rum Snaps
 
-—-
+---
 
 ## Ingredients
 
@@ -13,7 +13,7 @@
 * 1/2 tsp ground cinnamon
 * A pinch of salt
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Makes about 1 litre / 2 pints
 
-—-
+---
 
 ## Ingredients
 
@@ -11,7 +11,7 @@ Makes about 1 litre / 2 pints
 * 400 g granulated sugar
 * 400 ml / 1 3/4 cup filtered water
 
-—-
+---
 
 ## Steps
 

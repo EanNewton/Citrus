@@ -1,7 +1,7 @@
 # Preserved Lemon Hummus
 
 
-—-
+---
 
 ## Ingredients
 
@@ -14,7 +14,7 @@
 * A sprinkling of sumac or paprika
 * Sea salt
 
-—-
+---
 
 ## Steps
 

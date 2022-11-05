@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -17,7 +17,7 @@ Serves 4
 * 100 ml / 7 tbsp white wine, vermouth, or Marsala
 * Salt and pepper
 
-—-
+---
 
 ## Steps
 

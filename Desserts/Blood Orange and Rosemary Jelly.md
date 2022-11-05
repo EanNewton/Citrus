@@ -2,7 +2,7 @@
 
 Serves 6
 
-—-
+---
 
 ## Ingredients
 
@@ -14,7 +14,7 @@ Serves 6
 * 5 leaves of gelatine
 * Oil, for greasing
 
-—-
+---
 
 ## Steps
 

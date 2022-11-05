@@ -1,6 +1,6 @@
 # Lemon or Lime Curry
 
-—-
+---
 
 ## Ingredients
 
@@ -18,7 +18,7 @@
 * 2 tsp Kashmiri chilli powder
 * 1 tbsp jaggery or soft light brown sugar
 
-—-
+---
 
 ## Steps
 

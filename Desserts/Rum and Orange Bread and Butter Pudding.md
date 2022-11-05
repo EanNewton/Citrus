@@ -2,7 +2,7 @@
 
 Serves 6
 
-—-
+---
 
 ## Ingredients
 
@@ -18,7 +18,7 @@ Serves 6
 * 500 ml / 2 cups whole milk
 * 2 tbsp demerara sugar
 
-—-
+---
 
 ## Steps
 

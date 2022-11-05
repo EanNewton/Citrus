@@ -2,7 +2,7 @@
 
 Serves 4-6
 
-—-
+---
 
 ## Ingredients
 
@@ -21,7 +21,7 @@ Serves 4-6
 * 25 g shelled pistachios, roughly chopped
 * A large pinch of salt
 
-—-
+---
 
 ## Steps
 

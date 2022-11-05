@@ -2,7 +2,7 @@
 
 Makes about 750 ml / 1 1/2 pints
 
-—-
+---
 
 ## Ingredients
 
@@ -11,7 +11,7 @@ Makes about 750 ml / 1 1/2 pints
 * Finely grated zest of 1 citrus fruit (1/2 if grapefruit)
 * 125 ml / 1/2 cup sour citrus juice
 
-—-
+---
 
 ## Steps
 

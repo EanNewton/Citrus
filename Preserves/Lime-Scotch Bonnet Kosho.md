@@ -1,7 +1,7 @@
 # Lime-Scotch Bonnet Kosho
 
 
-—-
+---
 
 ## Ingredients
 
@@ -10,7 +10,7 @@
 * 35 g mild-medium-hot red or green chillies, deseeded and finely chopped
 * 6 g salt
 
-—-
+---
 
 ## Steps
 

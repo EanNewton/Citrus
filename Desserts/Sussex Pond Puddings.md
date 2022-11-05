@@ -2,7 +2,7 @@
 
 Serves 8
 
-—-
+---
 
 ## Ingredients
 
@@ -18,7 +18,7 @@ Serves 8
 * 3 pieces of stem ginger, finely chopped
 * 8 kumquats or limequats
 
-—-
+---
 
 ## Steps
 

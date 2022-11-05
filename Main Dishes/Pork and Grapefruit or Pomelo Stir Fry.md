@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ Serves 4
 * Salt and pepper
 * Steamed jasmine rice or noodles, to serve
 
-—-
+---
 
 ## Steps
 

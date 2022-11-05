@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -18,7 +18,7 @@ Serves 4
 * 2 garlic cloves, crushed
 * 1/2 tsp dried chilli flakes, optional
 
-—-
+---
 
 ## Steps
 

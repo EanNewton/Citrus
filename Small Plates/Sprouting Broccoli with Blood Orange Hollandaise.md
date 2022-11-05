@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -15,7 +15,7 @@ Serves 4
 * Finely grated zest and juice of 1 blood orange
 * 250 g clarified butter, melted
 
-—-
+---
 
 ## Steps
 

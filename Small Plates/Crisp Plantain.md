@@ -1,7 +1,7 @@
 # Crisp Plantain
 
 
-—-
+---
 
 ## Ingredients
 
@@ -9,7 +9,7 @@
 * 2 large, green plantain
 * Vegetable oil, for deep frying
 
-—-
+---
 
 ## Steps
 

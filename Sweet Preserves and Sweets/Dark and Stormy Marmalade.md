@@ -2,7 +2,7 @@
 
 Makes about 10 x 450 g / 1 lb jars
 
-—-
+---
 
 ## Ingredients
 
@@ -16,7 +16,7 @@ Makes about 10 x 450 g / 1 lb jars
 * 30-50 ml / 2 - 3 1/2 tbsp dark rum (according to taste)
 * A generous dash of Angostura bitters
 
-—-
+---
 
 ## Steps
 

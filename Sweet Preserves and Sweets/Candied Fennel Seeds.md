@@ -1,6 +1,6 @@
 # Candied Fennel Seeds
 
-—-
+---
 
 ## Ingredients
 
@@ -9,7 +9,7 @@
 * 3 tbsp fennel seeds
 * A pinch of salt
 
-—-
+---
 
 ## Steps
 

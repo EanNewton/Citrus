@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ Serves 4
 * 1 tbsp finely chopped dill
 * 1/2 tsp fennel seeds, finely crushed (optional)
 
-—-
+---
 
 ## Steps
 

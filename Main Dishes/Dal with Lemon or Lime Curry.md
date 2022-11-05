@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Serves 4
 * Salt and pepper
 * Cilantro leaves, to serve
 
-—-
+---
 
 ## Steps
 

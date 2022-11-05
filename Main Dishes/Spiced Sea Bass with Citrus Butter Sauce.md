@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ Serves 4
 * 350 g  / 12 oz spring greens, very finely shredded
 * 350 g cooked chickpeas
 
-—-
+---
 
 ## Steps
 

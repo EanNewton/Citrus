@@ -2,7 +2,7 @@
 
 Serves 4, with leftovers
 
-—-
+---
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Serves 4, with leftovers
 * 4 thick slices of pineapple
 * 4 fat slices of grapefruit, taken from the middle of 2 grapefruit
 
-—-
+---
 
 ## Steps
 

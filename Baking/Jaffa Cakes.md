@@ -2,7 +2,7 @@
 
 Makes 24
 
-—-
+---
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Makes 24
 * Dried zest of 1/2 orange, finely ground
 * A little edible gold powder (optional)
 
-—-
+---
 
 ## Steps
 

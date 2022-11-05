@@ -2,7 +2,7 @@
 
 Serves 10-12
 
-—-
+---
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ Serves 10-12
 ### To decorate
 * Strips of pared [blood orange zest or candied zest](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Candied%20Citrus%20Zest.md)
 
-—-
+---
 
 ## Steps
 

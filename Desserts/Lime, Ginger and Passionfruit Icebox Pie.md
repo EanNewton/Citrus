@@ -2,7 +2,7 @@
 
 Serves 6-8
 
-—-
+---
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Serves 6-8
 * 1 tbsp icing sugar
 * 2-3 passionfruits
 
-—-
+---
 
 ## Steps
 

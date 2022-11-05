@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Serves 4
 * 2 shallots, finely chopped
 * 200 ml / 3/4 cup well reduced chicken stock (or duck if you have it)
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 4-6
 
-—-
+---
 
 ## Ingredients
 
@@ -14,7 +14,7 @@ Serves 4-6
 * 2 cm / 3/4 inch piece of fresh root ginger, peeled and grated
 * Single (light) cream, to serve
 
-—-
+---
 
 ## Steps
 

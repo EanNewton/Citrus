@@ -2,7 +2,7 @@
 
 Serves 6
 
-—-
+---
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ Serves 6
 * 50 g caster sugar
 * 6 egg yolks
 
-—-
+---
 
 ## Steps
 

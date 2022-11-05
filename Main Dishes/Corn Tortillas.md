@@ -1,13 +1,13 @@
 # Corn Tortillas
 
-—-
+---
 
 ## Ingredients
 
 * 250 g masa harina
 * 33 ml / 1 1/4 cup plus 3 tbsp just-boiled water
 
-—-
+---
 
 ## Steps
 

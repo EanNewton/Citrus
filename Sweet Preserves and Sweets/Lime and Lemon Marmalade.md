@@ -2,7 +2,7 @@
 
 Makes about 4 x 450 g / 1 pound jars
 
-—-
+---
 
 ## Ingredients
 
@@ -11,7 +11,7 @@ Makes about 4 x 450 g / 1 pound jars
 * 900 ml / 4 cups water
 * 750 g granulated sugar
 
-—-
+---
 
 ## Steps
 

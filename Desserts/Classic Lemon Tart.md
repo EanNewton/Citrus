@@ -2,7 +2,7 @@
 
 Serves 8
 
-—-
+---
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Serves 8
 ### For the brulee (optional)
 * 3-4 tbsp icing sugar
 
-—-
+---
 
 ## Steps
 

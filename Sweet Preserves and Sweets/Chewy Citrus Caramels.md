@@ -2,7 +2,7 @@
 
 Makes about 64
 
-—-
+---
 
 ## Ingredients
 
@@ -18,7 +18,7 @@ Makes about 64
 * 150 g / 7 tbsp golden syrup
 * 50 ml / 3 1/2 tbsp water
 
-—-
+---
 
 ## Steps
 

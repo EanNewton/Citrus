@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -36,7 +36,7 @@ Serves 4
 * Fresh ricotta or other creamy cheese
 * A few mint, basil or verbena leaves
 
-—-
+---
 
 ## Steps
 

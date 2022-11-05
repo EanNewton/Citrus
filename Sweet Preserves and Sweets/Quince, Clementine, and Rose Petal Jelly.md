@@ -2,7 +2,7 @@
 
 Makes about 4 x 225 g / 1/2 lb jars
 
-—-
+---
 
 ## Ingredients
 
@@ -13,7 +13,7 @@ Makes about 4 x 225 g / 1/2 lb jars
 * 1/2 cinnamon stick
 * Sugar (see method below for amount)
 
-—-
+---
 
 ## Steps
 

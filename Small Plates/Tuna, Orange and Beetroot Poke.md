@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -30,7 +30,7 @@ Serves 4
 * Sesame seeds
 * A handful of coriander leaves
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -12,7 +12,7 @@ Serves 4
 * Finely grated zest of 1/2 sour orange and juice of 2 sour oranges (or zest of 1/2 orange and 1/2 lime, juice of 1 orange and 1 lime)
 * Salt
 
-—-
+---
 
 ## Steps
 

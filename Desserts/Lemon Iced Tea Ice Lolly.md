@@ -2,7 +2,7 @@
 
 Makes about 8
 
-—-
+---
 
 ## Ingredients
 
@@ -12,7 +12,7 @@ Makes about 8
 * 50 g granulated sugar
 * 8 thin slices of lemon (optional)
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -30,7 +30,7 @@ Serves 4
 * Juice of 1 orange
 * A drizzle of olive oil
 
-—-
+---
 
 ## Steps
 

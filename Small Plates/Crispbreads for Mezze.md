@@ -2,7 +2,7 @@
 
 Makes 6 long, or 12 short flatbreads
 
-—-
+---
 
 ## Ingredients
 
@@ -16,7 +16,7 @@ Makes 6 long, or 12 short flatbreads
 * Finely grated zest of 1 lemon
 * Za'atar and sumac, for sprinkling
 
-—-
+---
 
 ## Steps
 

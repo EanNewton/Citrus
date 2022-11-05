@@ -1,6 +1,6 @@
 # Candied Citrus Peel
 
-—-
+---
 
 ## Ingredients
 
@@ -8,7 +8,7 @@
 * 300 g granulated sugar, plus extra for coating
 * 300 ml / 1 1/4 cup water
 
-—-
+---
 
 ## Steps
 

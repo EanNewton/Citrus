@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -35,7 +35,7 @@ Serves 4
 * 4 spring onions, halved lengthways and cut into slivers
 * A handful of basil, shredded
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Serves 4
 * 1 tbsp capers
 * 1 lemon, segmented and diced
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 8
 
-—-
+---
 
 ## Ingredients
 
@@ -15,7 +15,7 @@ Serves 8
 * A few drops of rose water, to taste
 * Oil, for greasing
 
-—-
+---
 
 ## Steps
 

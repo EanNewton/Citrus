@@ -1,7 +1,7 @@
 # Lobster Salad with Quinoa, Avocado, Mango and Citrus Dressing
 
 
-—-
+---
 
 ## Ingredients
 
@@ -24,7 +24,7 @@
 * Finely grated zest and juice of 1/2 lime
 * 1 cm / 1/2 inch piece of fresh root ginger, peeled and grated
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -18,7 +18,7 @@ Serves 4
 * A large handful of basil, roughly torn
 * Salt and pepper
 
-—-
+---
 
 ## Steps
 

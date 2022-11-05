@@ -2,7 +2,7 @@
 
 Makes 12
 
-—-
+---
 
 ## Ingredients
 
@@ -36,7 +36,7 @@ Makes 12
 * 1 tbsp soft light brown sugar
 * 1 tbsp bourbon or water
 
-—-
+---
 
 ## Steps
 

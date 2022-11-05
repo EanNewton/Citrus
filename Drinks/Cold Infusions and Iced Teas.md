@@ -1,6 +1,6 @@
 # Cold Infusions and Iced Teas
 
-—-
+---
 
 ## Variations
 

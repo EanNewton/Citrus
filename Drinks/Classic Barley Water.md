@@ -2,7 +2,7 @@
 
 Makes about 500 ml / 1 pints
 
-—-
+---
 
 ## Ingredients
 
@@ -11,7 +11,7 @@ Makes about 500 ml / 1 pints
 * 500 ml / 2 cup boiling water
 * 1 tbsp runny honey or sugar
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Serves 4
 * A few drops of sesame oil
 * Cilantro, to garnish
 
-—-
+---
 
 ## Steps
 

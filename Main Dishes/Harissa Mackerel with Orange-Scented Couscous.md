@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -35,7 +35,7 @@ Serves 4
 * 50 g pistachio nibs (skinned and slivered kernels)
 * A small bunch of parsley, finely chopped
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 6
 
-—-
+---
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ Serves 6
 * DoubleHeavy cream (pouring consistency)
 * 1-2 tbsp [limoncello](https://github.com/EanNewton/Citrus/blob/master/Drinks/Liqueurs%20and%20Cellos.md), to taste (optional)
 
-—-
+---
 
 ## Steps
 

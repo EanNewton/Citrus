@@ -2,7 +2,7 @@
 
 Makes about 1 liter / 2 pints
 
-—-
+---
 
 ## Ingredients
 
@@ -17,7 +17,7 @@ Makes about 1 liter / 2 pints
 * Angostura bitters
 * Freshly grated nutmeg
 
-—-
+---
 
 ## Steps
 

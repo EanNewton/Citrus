@@ -2,7 +2,7 @@
 
 Makes 1 large jar
 
-—-
+---
 
 ## Ingredients
 
@@ -12,7 +12,7 @@ Makes 1 large jar
 * 125 g unsalted butter
 * 2 eggs, plus 3 egg yolks
 
-—-
+---
 
 ## Steps
 

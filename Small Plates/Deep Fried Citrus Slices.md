@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Serves 4
 * A squeeze of lemon juice
 * Salt and pepper
 
-—-
+---
 
 ## Steps
 

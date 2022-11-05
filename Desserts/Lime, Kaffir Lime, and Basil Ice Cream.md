@@ -2,7 +2,7 @@
 
 Makes about 1 liter / 2 pints
 
-—-
+---
 
 ## Ingredients
 
@@ -12,7 +12,7 @@ Makes about 1 liter / 2 pints
 * 200 g / 2 cup caster sugar
 * 500 ml / 2 cup heavy cream, well chilled
 
-—-
+---
 
 ## Steps
 

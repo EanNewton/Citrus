@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -38,7 +38,7 @@ Serves 4
 * Cooked rice or noodles, a few basil leaves, a squeeze of lime juice
 
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Makes about 60 small or 24 large
 
-—-
+---
 
 ## Ingredients
 
@@ -12,7 +12,7 @@ Makes about 60 small or 24 large
 * Finely grated zest of 1/2 lemon or lime
 * A pinch of ground ginger, cinnamon and turmeric (optional)
 
-—-
+---
 
 ## Steps
 

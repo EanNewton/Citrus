@@ -2,7 +2,7 @@
 
 Makes 12-18
 
-—-
+---
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Makes 12-18
 * 50 g butter
 * 1 egg yolk
 
-—-
+---
 
 ## Steps
 

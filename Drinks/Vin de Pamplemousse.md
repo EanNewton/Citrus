@@ -2,7 +2,7 @@
 
 Makes about 1.5 litres / 3 pints
 
-—-
+---
 
 ## Ingredients
 
@@ -15,7 +15,7 @@ Makes about 1.5 litres / 3 pints
 * 50 ml / 3 1/2 tbsp rum
 * 200 g granulated sugar
 
-—-
+---
 
 ## Steps
 

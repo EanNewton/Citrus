@@ -2,7 +2,7 @@
 
 Makes about 48
 
-—-
+---
 
 ## Ingredients
 
@@ -13,7 +13,7 @@ Makes about 48
 * 500 g all purpose flour
 * [Candied Citrus Zest](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Candied%20Citrus%20Zest.md), finely chopped (optional)
 
-—-
+---
 
 ## Steps
 

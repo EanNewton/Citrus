@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ Serves 4
 * 300 ml / 1 1/4 cup sunflower oil
 * Juice of 1/2 lemon
 
-—-
+---
 
 ## Steps
 

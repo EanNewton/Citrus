@@ -1,12 +1,12 @@
 # Simple No-Cook Syrup
 
-—-
+---
 
 ## Ingredients
 
 * 
 
-—-
+---
 
 ## Steps
 

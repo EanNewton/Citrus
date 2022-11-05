@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -13,7 +13,7 @@ Serves 4
 * A pinch each of: ground cumin, ground coriander, ground cardamom
 * Salt
 
-—-
+---
 
 ## Steps
 

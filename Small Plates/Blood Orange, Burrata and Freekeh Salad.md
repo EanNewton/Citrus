@@ -1,7 +1,7 @@
 # Blood Orange, Burrata and Freekeh Salad
 
 
-—-
+---
 
 ## Ingredients
 
@@ -19,7 +19,7 @@
 * A handful of mint leaves
 * Salt and pepper
 
-—-
+---
 
 ## Steps
 

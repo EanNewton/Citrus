@@ -2,7 +2,7 @@
 
 Serves 6
 
-—-
+---
 
 ## Ingredients
 
@@ -13,7 +13,7 @@ Serves 6
 * A dash of bitters (optional)
 * 300 ml / 1 1/4 cup heavy cream
 
-—-
+---
 
 ## Steps
 

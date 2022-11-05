@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -15,7 +15,7 @@ Serves 4
 * A few chives, finely snipped
 * Salt
 
-—-
+---
 
 ## Steps
 

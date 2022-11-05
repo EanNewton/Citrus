@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ Serves 4
 * 2 tbsp capers
 * A handful of basil leaves, shredded
 
-—-
+---
 
 ## Steps
 

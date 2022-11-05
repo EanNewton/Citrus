@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -20,7 +20,7 @@ Serves 4
 * 300 ml / 1 1/4 cup whipping (heavy) cream
 * A squeeze of lemon juice
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Serves 4
 * 1 tsp tequila or rum
 * Salt and pepper
 
-—-
+---
 
 ## Steps
 

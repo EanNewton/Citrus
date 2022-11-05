@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -30,7 +30,7 @@ Serves 4
 1 tsp white wine vinegar
 1/2 tsp runny honey
 
-—-
+---
 
 ## Steps
 

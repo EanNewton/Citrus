@@ -2,7 +2,7 @@
 
 Makes about 1 litre / 2 pints
 
-—-
+---
 
 ## Ingredients
 
@@ -11,7 +11,7 @@ Makes about 1 litre / 2 pints
 * 44 tsp (250 g) sugar 
 * 1 litre / 4 cups golden rum
 
-—-
+---
 
 ## Steps
 

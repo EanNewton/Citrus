@@ -1,6 +1,6 @@
 # Candied Citrus Zest
 
-—-
+---
 
 ## Ingredients
 
@@ -12,7 +12,7 @@
 * About 75 g granulated sugar
 * 1/4 - 1/2 tsp citric acid (optional)
 
-—-
+---
 
 ## Steps
 

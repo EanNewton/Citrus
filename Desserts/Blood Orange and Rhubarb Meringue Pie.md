@@ -2,7 +2,7 @@
 
 Serves 6
 
-—-
+---
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Serves 6
 * 225 g caster sugar
 * 1/2 tsp cream of tartar
 
-—-
+---
 
 ## Steps
 

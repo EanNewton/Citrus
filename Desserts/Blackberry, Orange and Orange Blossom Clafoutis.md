@@ -2,7 +2,7 @@
 
 Serves 4-6
 
-—-
+---
 
 ## Ingredients
 
@@ -32,7 +32,7 @@ Serves 4-6
 * 1 tsp dried orange zest, ground to a powder
 * Pouring cream
 
-—-
+---
 
 ## Steps
 

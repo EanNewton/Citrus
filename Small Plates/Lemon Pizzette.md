@@ -2,7 +2,7 @@
 
 Makes 12 small or 8 large
 
-—-
+---
 
 ## Ingredients
 
@@ -21,7 +21,7 @@ Makes 12 small or 8 large
 * Fresh basil leaves
 * Olive oil
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ Serves 4
 * 1 tbsp light soy sauce
 * 1 tsp rum
 
-—-
+---
 
 ## Steps
 

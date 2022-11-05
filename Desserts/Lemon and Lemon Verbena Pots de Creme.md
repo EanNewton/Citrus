@@ -2,7 +2,7 @@
 
 Serves 6
 
-—-
+---
 
 ## Ingredients
 
@@ -16,7 +16,7 @@ Serves 6
 * 1 tbsp lime juice
 * Borage flowers to decorate (optional)
 
-—-
+---
 
 ## Steps
 

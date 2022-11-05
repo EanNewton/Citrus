@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Serves 4
 * 1 tsp sugar
 * 1 green chilli, such as jalapeño, roughly chopped
 
-—-
+---
 
 ## Steps
 

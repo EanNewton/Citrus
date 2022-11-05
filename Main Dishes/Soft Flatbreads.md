@@ -2,7 +2,7 @@
 
 Makes 8
 
-—-
+---
 
 ## Ingredients
 
@@ -16,7 +16,7 @@ Makes 8
 * Melted butter, for brushing
 * Sesame or poppy speeds for sprinkling (optional)
 
-—-
+---
 
 ## Steps
 

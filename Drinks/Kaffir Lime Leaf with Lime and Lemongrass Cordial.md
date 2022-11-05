@@ -2,7 +2,7 @@
 
 Makes about 700 ml / 1 1/2 pints
 
-—-
+---
 
 ## Ingredients
 
@@ -13,7 +13,7 @@ Makes about 700 ml / 1 1/2 pints
 * 500 ml / 2 cup plus 2 tbsp water
 * 300 g granulated sugar
 
-—-
+---
 
 ## Steps
 

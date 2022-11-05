@@ -2,7 +2,7 @@
 
 Makes about 8
 
-—-
+---
 
 ## Ingredients
 
@@ -12,7 +12,7 @@ Makes about 8
 * 250 g melon, prepared weight
 * 100 g granulated sugar
 
-—-
+---
 
 ## Steps
 

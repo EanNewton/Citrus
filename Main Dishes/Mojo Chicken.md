@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ Serves 4
 * 500 ml / 3 1/2 tbsp olive oil
 * Salt
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 10-12 
 
-—-
+---
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ Serves 10-12
 * 150 g confectioners sugar
 * 1 tbsp tequila (optional)
 
-—-
+---
 
 ## Steps
 

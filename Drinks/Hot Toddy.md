@@ -1,7 +1,7 @@
 # Hot Toddy
 
 
-—-
+---
 
 ## Ingredients
 
@@ -13,7 +13,7 @@
 * Juice of 1 orange 
 * A couple of cloves, a piece of cinnamon stick, and a a pinch of turmeric
 
-—-
+---
 
 ## Steps
 

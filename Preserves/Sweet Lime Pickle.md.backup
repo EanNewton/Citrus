@@ -2,7 +2,7 @@
 
 Makes about 1 x 500 ml / 2 cup jar
 
-—-
+---
 
 ## Ingredients
 
@@ -14,7 +14,7 @@ Makes about 1 x 500 ml / 2 cup jar
 * 2 cloves
 
 
-—-
+---
 
 ## Steps
 

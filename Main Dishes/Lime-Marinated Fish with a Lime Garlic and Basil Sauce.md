@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -26,7 +26,7 @@ Serves 4
 * 1 egg yolk
 * A bunch of basil leaves
 
-—-
+---
 
 ## Steps
 

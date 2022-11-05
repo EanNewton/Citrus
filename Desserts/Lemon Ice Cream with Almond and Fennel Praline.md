@@ -2,7 +2,7 @@
 
 Makes about 800 ml / 1 3/4 pints
 
-—-
+---
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ Makes about 800 ml / 1 3/4 pints
 * 150 g granulated sugar
 * 50 ml / 3 1/2 tbsp water
 
-—-
+---
 
 ## Steps
 

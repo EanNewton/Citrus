@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -15,7 +15,7 @@ Serves 4
 * 1 tsp nigella seeds
 * Salt and pepper
 
-—-
+---
 
 ## Steps
 

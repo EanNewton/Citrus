@@ -2,7 +2,7 @@
 
 Serves 2
 
-—-
+---
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Serves 2
 * 2 tbsp olive oil
 * Sea salt
 
-—-
+---
 
 ## Steps
 

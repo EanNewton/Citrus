@@ -2,7 +2,7 @@
 
 Makes about 24 small or 12 large
 
-—-
+---
 
 ## Ingredients
 
@@ -13,7 +13,7 @@ Makes about 24 small or 12 large
 * 1/2 tsp baking powder
 * Finely grated zest and juice of 1 lemon
 
-—-
+---
 
 ## Steps
 

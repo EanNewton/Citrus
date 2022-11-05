@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -39,7 +39,7 @@ Serves 4
 * 2 tbsp yuzu juice
 * 1 tsp powdered yuzu zest
 
-—-
+---
 
 ## Steps
 

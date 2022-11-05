@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ Serves 4
 * Sea salt and finely ground white pepper
 * Sesame seeds, to serve
 
-—-
+---
 
 ## Steps
 

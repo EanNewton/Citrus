@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -17,7 +17,7 @@ Serves 4
 * A grating of nutmeg
 * Salt and pepper
 
-—-
+---
 
 ## Steps
 

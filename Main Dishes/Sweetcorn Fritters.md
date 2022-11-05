@@ -2,7 +2,7 @@
 
 Makes about 8
 
-—-
+---
 
 ## Ingredients
 
@@ -17,7 +17,7 @@ Makes about 8
 * Oil, for frying
 * Salt and pepper
 
-—-
+---
 
 ## Steps
 

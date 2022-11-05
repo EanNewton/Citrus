@@ -1,6 +1,6 @@
 # Candied Whole Fruit
 
-—-
+---
 
 ## Ingredients
 
@@ -8,7 +8,7 @@
 * 150 g granulated sugar
 * 100 ml / 1/3 cup water
 
-—-
+---
 
 ## Steps
 

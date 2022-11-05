@@ -1,12 +1,12 @@
 # Gently Scented Rice
 
-—-
+---
 
 ## Ingredients
 
 * 
 
-—-
+---
 
 ## Steps
 

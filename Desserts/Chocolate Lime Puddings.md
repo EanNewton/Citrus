@@ -2,7 +2,7 @@
 
 Serves 8
 
-—-
+---
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Serves 8
 * A pinch of salt
 * 2 tbsp white rum or tequila (optional)
 
-—-
+---
 
 ## Steps
 

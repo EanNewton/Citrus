@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ Serves 4
 * Finely grated zest of 1 mandarin or lime
 * 1/2 tsp finely chopped rosemary
 
-—-
+---
 
 ## Steps
 

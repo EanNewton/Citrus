@@ -2,7 +2,7 @@
 
 Serves 12-16
 
-—-
+---
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ Serves 12-16
 * 1 egg white
 * 50 g granulated or preserving sugar
 
-—-
+---
 
 ## Steps
 

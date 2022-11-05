@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -41,7 +41,7 @@ Serves 4
 * [Fresh Corn Tortillas](https://github.com/EanNewton/Citrus/blob/master/Main%20Dishes/Corn%20Tortillas.md)
 * Shredded lettuce
 
-—-
+---
 
 ## Steps
 

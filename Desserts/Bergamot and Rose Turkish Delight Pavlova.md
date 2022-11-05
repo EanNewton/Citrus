@@ -2,7 +2,7 @@
 
 Serves 6-8
 
-—-
+---
 
 ## Ingredients
 
@@ -21,7 +21,7 @@ Serves 6-8
 * 50 g rose and bergamot Turkish delight, finely diced
 * A few crystallized or fresh rose petals, to decorate
 
-—-
+---
 
 ## Steps
 

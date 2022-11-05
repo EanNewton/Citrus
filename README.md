@@ -7,7 +7,7 @@
 
 Shared under the [United States Copyright Office Compendium chapter 313.4(F)](https://www.copyright.gov/comp3/docs/compendium.pdf) and [Circular 33](https://www.copyright.gov/circs/circ33.pdf). If you found this repo helpful please consider buying Catherine's book and [buying me a coffee](#buy-me-a-coffee).
 
-—-
+---
 
 # Table of Contents
 
@@ -15,11 +15,11 @@ Shared under the [United States Copyright Office Compendium chapter 313.4(F)](ht
 - [Preserves](#preserves)
 - [Soups](#soups)
 - [Small Plates](#small-plates)
-—-
+---
 
 # BUY ME A COFFEE
 
-—-
+---
 
 I love teaching others and seeing the community grow. Time is limited but donations will allow me to to help the community more. How useful was this to you? If it  was I would be humbly grateful for your donation.🙏
 

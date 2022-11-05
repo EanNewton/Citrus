@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Serves 4
 * 500 ml / 2 cups water or chicken stock
 * 50 g flaked (slivered) or nibbed almonds, lightly toasted
 
-—-
+---
 
 ## Steps
 

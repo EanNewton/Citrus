@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ Serves 4
 * 1 bottle of red wine
 * Salt and pepper
 
-—-
+---
 
 ## Steps
 

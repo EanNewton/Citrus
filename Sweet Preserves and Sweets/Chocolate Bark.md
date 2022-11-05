@@ -2,7 +2,7 @@
 
 Makes 1 large or 6 smaller slabs
 
-—-
+---
 
 ## Ingredients
 
@@ -15,7 +15,7 @@ Makes 1 large or 6 smaller slabs
 * Nuts
 * A few dried, crumbled rose leaves
 
-—-
+---
 
 ## Steps
 

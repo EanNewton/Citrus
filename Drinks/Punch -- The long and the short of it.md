@@ -2,7 +2,7 @@
 
 Serves 8
 
-—-
+---
 
 ## Ingredients
 
@@ -18,7 +18,7 @@ Serves 8
 * A generous dash of Angostura bitters
 * A rasp of nutmeg
 
-—-
+---
 
 ## Steps
 

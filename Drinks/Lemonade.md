@@ -2,7 +2,7 @@
 
 Makes about 1 litre / 2 pints
 
-—-
+---
 
 ## Ingredients
 
@@ -10,7 +10,7 @@ Makes about 1 litre / 2 pints
 * 100-150 g caster sugar, to taste
 * 1 litre / 4 cup water, or a mixture of water and sparkling water
 
-—-
+---
 
 ## Steps
 

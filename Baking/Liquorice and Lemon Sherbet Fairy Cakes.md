@@ -2,7 +2,7 @@
 
 Makes 12
 
-—-
+---
 
 ## Ingredients
 
@@ -18,7 +18,7 @@ Makes 12
 * 10 g [Candied Citrus Zest](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Candied%20Citrus%20Zest.md), plus extra for decoration
 * 200 g confectioners sugar
 
-—-
+---
 
 ## Steps
 

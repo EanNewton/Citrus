@@ -2,7 +2,7 @@
 
 Serves 4-6
 
-—-
+---
 
 ## Ingredients
 
@@ -21,7 +21,7 @@ Serves 4-6
 * 100 ml / 7 tbsp water
 * 50 ml / 3 1/2 tbsp gin
 
-—-
+---
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 Serves 12-16
 
-—-
+---
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Serves 12-16
 * 15 g icing sugar
 * 1 tsp orange blossom water
 
-—-
+---
 
 ## Steps
 

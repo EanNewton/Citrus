@@ -2,7 +2,7 @@
 
 Makes around 48 squares
 
-—-
+---
 
 ## Ingredients
 
@@ -17,7 +17,7 @@ Makes around 48 squares
 * 50 g icing sugar
 * 50 g cornstarch
 
-—-
+---
 
 ## Steps
 

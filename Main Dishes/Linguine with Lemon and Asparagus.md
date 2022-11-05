@@ -2,7 +2,7 @@
 
 Serves 4
 
-—-
+---
 
 ## Ingredients
 
@@ -15,7 +15,7 @@ Serves 4
 * 50 g hard cheese, such as Parmesan or Pecorino
 * Salt and pepper
 
-—-
+---
 
 ## Steps
 
