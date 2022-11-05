@@ -15,6 +15,14 @@ Shared under the [United States Copyright Office Compendium chapter 313.4(F)](ht
 - [Preserves](#preserves)
 - [Soups](#soups)
 - [Small Plates](#small-plates)
+- [Salads](#salads)
+- [Main Courses](#main-courses)
+- [Sides](#sides)
+- [Desserts](#desserts)
+- [Baking](#baking)
+- [Sweet Preserves and Sweets](#sweet-preserves-and-sweets)
+- [Drinks](#drinks)
+
 ---
 
 # BUY ME A COFFEE
