@@ -198,22 +198,22 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Rum and Marmalade Loaf Cake](https://github.com/EanNewton/Citrus/blob/master/Baking/Rum%20and%20Marmalade%20Loaf%20Cake.md)
 
 # Sweet Preserves and Sweets
-* Candied Citrus Peel
-* Candied Citrus Zest
-* Candied Fennel Seeds
-* Candied Whole Fruit
-* Chewy Citrus Caramels
-* Chocolate Bark
-* Citrus Sugar
-* Citrus-Flecked Lollies with Sherbet
-* Classic Seville Orange Marmalade
-* Dark and Stormy Marmalade
-* Honey Bears
-* Lemon Curd
-* Lime and Lemon Marmalade
-* Quince, Clementine, and Rose Petal Jelly
-* Simple No-Cook Syrup
-* Turkish Delight
+* [Candied Citrus Peel](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Candied%20Citrus%20Peel.md)
+* [Candied Citrus Zest](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Candied%20Citrus%20Zest.md)
+* [Candied Fennel Seeds](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Candied%20Fennel%20Seeds.md)
+* [Candied Whole Fruit](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Candied%20Whole%20Fruit.md)
+* [Chewy Citrus Caramels](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Chewy%20Citrus%20Caramels.md)
+* [Chocolate Bark](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Chocolate%20Bark.md)
+* [Citrus Sugar](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Citrus%20Sugar.md)
+* [Citrus-Flecked Lollies with Sherbet](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Citrus-Flecked%20Lollies%20with%20Sherbet.md)
+* [Classic Seville Orange Marmalade](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Classic%20Seville%20Orange%20Marmalade.md)
+* [Dark and Stormy Marmalade](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Dark%20and%20Stormy%20Marmalade.md)
+* [Honey Bears](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Honey%20Bears.md)
+* [Lemon Curd](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Lemon%20Curd.md)
+* [Lime and Lemon Marmalade](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Lime%20and%20Lemon%20Marmalade.md)
+* [Quince, Clementine, and Rose Petal Jelly](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Quince%2C%20Clementine%2C%20and%20Rose%20Petal%20Jelly.md)
+* [Simple No-Cook Syrup](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Simple%20No-Cook%20Syrup.md)
+* [Turkish Delight](https://github.com/EanNewton/Citrus/blob/master/Sweet%20Preserves%20and%20Sweets/Turkish%20Delight.md)
 
 # Drinks
 * A Few Favourite Hot Teas
