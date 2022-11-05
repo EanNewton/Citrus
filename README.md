@@ -221,7 +221,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
     * [Bush Tea](https://github.com/EanNewton/Citrus/blob/master/Drinks/Bush%20Tea.md)
     * [Moroccan Mint and Lemon Verbena Tea](https://github.com/EanNewton/Citrus/blob/master/Drinks/Mandarin%2C%20Lime%2C%20and%20Basil%20Cordial.md)
 * [Classic Barley Water](https://github.com/EanNewton/Citrus/blob/master/Drinks/Classic%20Barley%20Water.md)
-* Cold Infusions and Iced Teas
+* [Cold Infusions and Iced Teas](https://github.com/EanNewton/Citrus/blob/master/Drinks/Cold%20Infusions%20and%20Iced%20Teas.md)
     * [Proper Lemon Iced Tea](https://github.com/EanNewton/Citrus/blob/master/Drinks/Proper%20Lemon%20Iced%20Tea.md)
 * Cordials
     * [Grapefruit, Allspice, and Chilli Cordial](https://github.com/EanNewton/Citrus/blob/master/Drinks/Grapefruit%2C%20Allspice%2C%20and%20Chilli%20Cordial.md)
