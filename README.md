@@ -36,6 +36,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * Yuzukosho and other koshos
     * [Lemon-Mandarin Kosho](https://github.com/EanNewton/Citrus/blob/master/Preserves/Lemon-Mandarin%20Kosho.md)
     * [Lime-Scotch Bonnet Kosho](https://github.com/EanNewton/Citrus/blob/master/Preserves/Lime-Scotch%20Bonnet%20Kosho.md)
+    * [Yuzukosho / Basic Kosho ](https://github.com/EanNewton/Citrus/blob/master/Preserves/Yuzukosho.md)
 
 # Soups
 * [Chicken Chard and Giant Couscous Soup](https://github.com/EanNewton/Citrus/blob/master/Soups/Chicken%20Chard%20and%20Giant%20Couscous%20Soup.md)
