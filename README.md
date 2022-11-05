@@ -182,7 +182,19 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Yuzu, Mandarin and Ginger Souffle](https://github.com/EanNewton/Citrus/blob/master/Desserts/Yuzu%2C%20Mandarin%20and%20Ginger%20Souffle.md)
 
 # Baking
-*
+* An Alternative Christmas Cake
+* Blood Orange, Pomegranate and Hazelnut Meringue Cake
+* Citrus Butter Biscuits
+* Classic Drizzle Cake
+* Jaffa Cakes
+* Lemon Curd Slices
+* Lim, Chamomile, and Honey Cake
+* Liquorice and Lemon Sherbet Fairy Cakes
+* Madeleines
+* Mr Happy's Sunshine Cake
+* Orange and Ginger Butter Shortbread
+* Orange and Pistachio Cake
+* Rum and Marmalade Loaf Cake
 
 # Sweet Preserves and Sweets
 *
