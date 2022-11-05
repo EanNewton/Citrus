@@ -38,7 +38,7 @@ Serves 4
 * 2 tbsp chopped cilantro
 
 ### To serve
-* Fresh corn tortillas (see: )
+* [Fresh Corn Tortillas](https://github.com/EanNewton/Citrus/blob/master/Main%20Dishes/Corn%20Tortillas.md)
 * Shredded lettuce
 
 ---
