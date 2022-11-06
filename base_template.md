@@ -4,10 +4,6 @@
 
 ## Ingredients
 
-* 
-
 ---
 
 ## Steps
-
-1.  
